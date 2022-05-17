@@ -8,7 +8,7 @@ This extension can be used freely according to GNU Affero GPL 3.0. Please see th
 * [Poem](https://www.mediawiki.org/wiki/Extension:Poem)
 
 ## Installation
-1. Create a new NamuMark folder in the MediaWiki extensions folder. Or, if you can use git directly on the server, command the following in the extensions folder of MediaWiki installed.
+1. Create a new NamuMark folder inside the MediaWiki extensions folder. Or, if you can use git directly on the server, command the following in the extensions folder inside the MediaWiki folder.
 
 		git clone https://github.com/Oriwiki/php-namumark-mediawiki.git NamuMark
 
