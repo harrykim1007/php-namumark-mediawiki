@@ -4,10 +4,10 @@ This extension can be used freely according to GNU Affero GPL 3.0. Please see th
 ## Dependencies
 * [EmbedVideo](https://www.mediawiki.org/wiki/Extension:EmbedVideo)
 * [Cite](https://www.mediawiki.org/wiki/Extension:Cite)
-* [Math](https://www.mediawiki.org/wiki/Extension:Math) 또는 [SimpleMathJax 확장기능](https://www.mediawiki.org/wiki/Extension:SimpleMathJax)
+* [Math](https://www.mediawiki.org/wiki/Extension:Math) or [SimpleMathJax](https://www.mediawiki.org/wiki/Extension:SimpleMathJax)
 * [Poem](https://www.mediawiki.org/wiki/Extension:Poem)
 
-## 사용 방법
+## Installation
 1. Create a new NamuMark folder in the MediaWiki extensions folder. Or, if you can use git directly on the server, command the following in the extensions folder of MediaWiki installed.
 
 		git clone https://github.com/Oriwiki/php-namumark-mediawiki.git NamuMark
